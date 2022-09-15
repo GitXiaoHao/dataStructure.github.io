@@ -1,0 +1,15 @@
+<!--HTML5 标识-->
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <!--  字符集 -->
+  <meta charset="UTF-8">
+  <title>第一个HTML文件</title>
+</head>
+<body>
+    <h1>数据结构第一章</h1>
+    <h2>dataStructure</h2>
+
+</body>
+</html>
